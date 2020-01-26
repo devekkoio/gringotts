@@ -56,7 +56,7 @@ defmodule Gringotts.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
-      {:poison, "~> 3.1.0"},
+      {:poison, "~> 3.1"},
       {:httpoison, "~> 1.1"},
       {:xml_builder, "~> 2.1"},
       {:elixir_xml_to_map, "~> 0.1"},
